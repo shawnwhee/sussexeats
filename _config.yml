@@ -1,0 +1,8 @@
+title: Sussex Eats
+description: Discover the best of Sussex’s food and drink
+baseurl: ""
+url: "https://yourusername.github.io" # change this if you're using a custom domain
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
